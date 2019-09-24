@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Nacho Sánchez
+ * @author Pablo
  */
 public class Patient implements Serializable {
     String name;

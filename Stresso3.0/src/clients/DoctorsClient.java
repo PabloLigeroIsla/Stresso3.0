@@ -20,7 +20,7 @@ import static pojos.Validator.*;
 
 /**
  *
- * @author Nacho Sánchez
+ * @author Pablo
  */
 public class DoctorsClient {
 
